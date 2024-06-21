@@ -1,0 +1,11 @@
+data*
+__pycache__
+coco_eval.py
+coco_utils.py
+engine.py
+transforms.py
+utils.py
+input/
+input-small/
+output/
+test/
